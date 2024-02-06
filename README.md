@@ -35,7 +35,7 @@
 
 <p style="display: flex;align-items: center;">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=mas-aleksey&include_all_commits=false&count_private=true&show_icons=true&line_height=20" alt="devSouvik's Github Stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-aleksey&layout=compact&exclude_repo=mas-aleksey" >
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-aleksey&layout=compact&exclude_repo=mas-aleksey.github.io,portfolio-site" >
 </p>
 
 
