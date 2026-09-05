@@ -9,7 +9,7 @@ Open to Senior/Staff backend roles, remote B2B contract.
 ### Stack
 
 `Go` `Python` `gRPC` `FastAPI` `PostgreSQL` `Kafka` `RabbitMQ` `Elasticsearch`
-`Kubernetes` `Docker` `AWS` `Terraform` `CI/CD` `pytest`
+`Kubernetes` `Docker` `AWS` `CI/CD` `pytest`
 
 ### Projects
 
